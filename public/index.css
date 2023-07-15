@@ -1,0 +1,25 @@
+.items-list
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.items-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.mycard
+{
+ margin:15px;
+ width: 22%;
+}
+.mycard:hover
+{
+   cursor:pointer;
+      
+}
+
